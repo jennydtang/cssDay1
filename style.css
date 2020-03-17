@@ -1,0 +1,42 @@
+
+.pie {
+    width: 450px;
+}
+
+.quarter1
+{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border-top-left-radius: 200px;
+    float: left;
+}
+
+.quarter2
+{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    border-top-right-radius: 200px;
+    margin-left: 203px;
+}
+
+.quarter3
+{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    border-bottom-left-radius: 200px;
+    float: left;
+    margin-top: 3px;
+}
+
+.quarter4
+{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    border-bottom-right-radius: 200px;
+    margin-left: 203px;
+    margin-top: 3px;
+}
